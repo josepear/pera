@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyjwt==2.8.0
+sqlmodel
+psycopg2-binary
+pydantic
